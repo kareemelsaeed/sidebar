@@ -1,0 +1,23 @@
+.sidebar{
+    width: 250px;
+    height: 100vh;
+    background-color: rgb(113, 112, 112);
+    padding-top: 10px;
+    margin-left: -250px;
+}
+
+.sid_head{
+
+    margin-left: 30px;
+}
+
+.main{
+    display: flex;
+}
+
+h3{
+    cursor: pointer;
+}
+i{
+    cursor: pointer;
+}
